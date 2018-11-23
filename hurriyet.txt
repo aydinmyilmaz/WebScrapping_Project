@@ -1,0 +1,107 @@
+,adres,area-m2,date,owner,price,room,seller,title
+0,/konut-satilik/balikesir-ayvalik-kucukkoy-emlakcidan-villa/detay/32270596,155,22.11.2018,Emlakçıdan,525.000,3+1,Kurumsal,ULAŞ EMLAK\u0027TAN BAHÇELİ HAVUZLU SIFIR 3+1 SÜPER LÜKS VİLLA
+1,/konut-satilik/balikesir-edremit-gure-emlakcidan-villa/detay/32307751,140,22.11.2018,Emlakçıdan,550.000,3+1,Kurumsal,GÜRE SSK MEVKİNDE SATILIK 3+1 LÜKS VİLLA DENİZE 300 METRE
+2,https://www.hurriyetemlak.com/projeler/kaplanlar-insaat/sena-life?utm_source=hurriyet_emlak&utm_medium=he_newsearch&utm_content=flat-plan-id-4713&utm_campaign=sena-life,75,12.11.2018,İnşaat Firmasından,280.000,2+1,Projeland,Sena Life
+3,/konut-satilik/sakarya-sapanca-tepebasi-emlakcidan-villa/detay/32274870,225,22.11.2018,Emlakçıdan,1.620.000,6+1,Kurumsal,"SAPANCA\u0027DA MÜSTAKİL HAVUZLU, GENİŞ BAHÇELİ, GÖL MANZARALI VİLLA"
+4,/konut-satilik/duzce-akcakoca-osmaniye-emlakcidan-villa/detay/32277661,255,22.11.2018,Emlakçıdan,750.000,5+2,Kurumsal,AKÇAKOCA DA SATILIK LÜKS 5+2 VİLLA
+5,/konut-satilik/sakarya-sapanca-tepebasi-emlakcidan-villa/detay/32275113,265,22.11.2018,Emlakçıdan,2.200.000,7+1,Kurumsal,"\u0027\u0027 GÖL MANZARALI, MÜSTAKİL BAHÇELİ-HAVUZLU \u0027\u00277+1 SATILIK VİLLA"
+6,/konut-satilik/balikesir-edremit-altinoluk-emlakcidan-villa/detay/31806940,190,22.11.2018,Emlakçıdan,650.000,4+1,Kurumsal,ALTINOLUK SATILIK GARAJLI 4+1 LÜKS VİLLALAR- DENİZE 300 METRE
+7,https://www.hurriyetemlak.com/projeler/kaplanlar-insaat/sena-life?utm_source=hurriyet_emlak&utm_medium=he_newsearch&utm_content=flat-plan-id-4713&utm_campaign=sena-life,90,12.11.2018,İnşaat Firmasından,320.000,3+1,Projeland,Sena Life
+8,/konut-satilik/istanbul-sariyer-zekeriyakoy-emlakcidan-villa/detay/32273492,500,22.11.2018,Emlakçıdan,5.350.000,6+2,Kurumsal,NOKTA\u0027DAN ZEKERİYAKÖY\u0027DE ELİT SİTEDE ÖZEL HAVUZLU TAM MÜSTAKİL
+9,/konut-satilik/izmir-cigli-sasalli-merkez-emlakcidan-villa/detay/32064789,500,22.11.2018,Emlakçıdan,2.850.000,6+1,Kurumsal," Sasalı Yelken Konakların da 6+1, 500m2  Satılık Lüks Villa"
+10,/konut-satilik/ankara-golbasi-karsiyaka-emlakcidan-villa/detay/32047768,220,22.11.2018,Emlakçıdan,850.000,4+1,Bireysel,GÖLBAŞI NESİBE AYDIN YANI 4+1 YENİ SİTEİÇİ VİLLA ZET GROUP\u0027DAN
+11,/konut-satilik/ankara-cankaya-beytepe-emlakcidan-villa/detay/32178729,250,22.11.2018,Emlakçıdan,495.000,5+1,Kurumsal,ACAR BEYTEPE SİT.GENİŞ BAHÇELİ ÖNÜ AÇIK TRIBLEKS
+12,https://www.hurriyetemlak.com/projeler/cagri-yapi/kartepe-stone-suites?utm_source=hurriyet_emlak&utm_medium=he_newsearch&utm_content=flat-plan-id-4725&utm_campaign=kartepe-stone-suites,105,13.11.2018,İnşaat Firmasından,300.000,2+1,Projeland,Kartepe Stone Suites
+13,/konut-satilik/istanbul-sariyer-bahcekoy-merkez-emlakcidan-villa/detay/18108847,1100,22.11.2018,Emlakçıdan,39.770.000,6+2,Kurumsal,Bahçeköy SAKLI KORU\u0027 da VİP Kupon VİLLA
+14,/konut-satilik/istanbul-sariyer-zekeriyakoy-emlakcidan-villa/detay/32179869,300,22.11.2018,Emlakçıdan,1.650.000,4+2,Kurumsal,Havuzlu ve Guvenlikli sitede 300m2 Müstakil Villa fırsatı
+15,/konut-satilik/ankara-etimesgut-baglica-emlakcidan-villa/detay/32308520,250,22.11.2018,Emlakçıdan,839.000,4+1,Bireysel,baglıca da satılık villaTAM MÜSTAKİL BAHÇELİ BAGIMSIZ 300m2bahçe
+16,/konut-satilik/izmir-cesme-alacati-emlakcidan-villa/detay/32161150,130,22.11.2018,Emlakçıdan,1.075.000,3+1,Kurumsal,ALAÇATI ÇAMLIK YOLDA SATILIK HAVUZLU SİTEDE 3+1 VİLLA
+17,/konut-satilik/ankara-golbasi-karsiyaka-emlakcidan-villa/detay/31533249,538,22.11.2018,Emlakçıdan,1.500.000,6+1,Kurumsal,SON VİLLALAR LÜKS- GÖL MANZARALI* KUĞU GÖLÜ VİLLALARI
+18,/konut-satilik/izmir-urla-ataturk-emlakcidan-villa/detay/32255830,185,22.11.2018,Emlakçıdan,799.999,5+1,Kurumsal,Urla İskele Atatürk Mah de Alınacak En İyi Villa 5+1 Denize 100
+19,/konut-satilik/izmir-cesme-dalyan-emlakcidan-villa/detay/31848677,200,22.11.2018,Emlakçıdan,2.000.000,4+1,Kurumsal,SEZGİN KARTAL...ÇEŞME ÖZEL MİMARİ MÜSTAKİL HAVUZLU MODERN VİLLA
+20,/konut-satilik/istanbul-besiktas-bebek-emlakcidan-villa/detay/32307663,350,22.11.2018,Emlakçıdan,11.000.000,5+2,Kurumsal,"BEBEKTE BOĞAZ MANZARALI ,MİMARİ TASARIMLI,BAHÇELİ VİLLA"
+21,/konut-satilik/duzce-akcakoca-ayazli-emlakcidan-villa/detay/32261760,330,22.11.2018,Emlakçıdan,330.000,5+2,Kurumsal,ERDEMİR SİTESİNDE 5+2 SATILIK VİLLA
+22,/konut-satilik/istanbul-beykoz-cubuklu-emlakcidan-villa/detay/27485008,600,22.11.2018,Emlakçıdan,18.000.000,6+2,Kurumsal,ÇUBUKLU Sahilde FULL BOĞAZ MANZARALI Satılık KUPON VİLLA
+23,/konut-satilik/istanbul-tuzla-postane-emlakcidan-villa/detay/31711827,280,22.11.2018,Emlakçıdan,1.220.000,3+1,Kurumsal,TUZLA SAHİL KIRMIZI EVLERDE SATILIK BAKIMLI VİLLA CANAN AKSOY
+24,/konut-satilik/aydin-didim-akbuk-emlakcidan-villa/detay/32174911,300,22.11.2018,Emlakçıdan,800.000,4+1,Kurumsal,AKBÜK\u0027TE DENİZE SIFIR NİTELİĞİNDE SATILIK VİLLA
+25,/konut-satilik/antalya-muratpasa-guzeloba-emlakcidan-villa/detay/32032355,320,22.11.2018,Emlakçıdan,1.100.000,7+1,Bireysel,DEVKONUT\u0027DAN SEFAKENT SİTESİN DE ULTRA LÜX 320 M2 7+1 TRİPLEX
+26,/konut-satilik/izmir-cesme-alacati-emlakcidan-villa/detay/31661783,130,22.11.2018,Emlakçıdan,1.150.000,3+1,Kurumsal,ALAÇATI\u0027DA SATILIK HAVUZLU SİTEDE 3+1 MÜSTAKİL VİLLA
+27,/konut-satilik/canakkale-ezine-geyikli-emlakcidan-villa/detay/32209926,215,22.11.2018,Emlakçıdan,289.000,5+1,Kurumsal,ÇANAKKALE GEYİKLİ BOZCAADA MANZARALI SATILIK KUPON TRİPLEX EV
+28,/konut-satilik/izmir-cesme-yali-emlakcidan-villa/detay/32301290,150,22.11.2018,Emlakçıdan,1.150.000,3+2,Kurumsal,ÇEŞME YALI\u0027DA SİTE İÇİ MÜSTAKİL HAVUZLU VİLLALAR
+29,/konut-satilik/mugla-bodrum-yali-sahibinden-villa/detay/30667289,300,22.11.2018,Sahibinden,1.250.000,4+1,Bireysel,SAHİBİNDEN MUĞLA-BODRUM-YALIÇİFTLİK MÜSTAKİL SATILIK VİLLA
+30,/konut-satilik/izmir-guzelbahce-mustafa-kemal-pasa-emlakcidan-villa/detay/29552415,350,22.11.2018,Emlakçıdan,2.100.000,5+2,Kurumsal,"A24 SİTE GAYRİMENKUL,HAVUZLU GÜVENLİKLİ SİTEDE ULTRA LÜKS VİLLA"
+31,/konut-satilik/balikesir-ayvalik-sefa-camlik-emlakcidan-villa/detay/32049018,130,22.11.2018,Emlakçıdan,650.000,3+1,Kurumsal,PLATFORM EMLAK TAN AYVALIK ÇAMLIK TA PEYZAJLI 3+1 LÜKS VİLLA
+32,/konut-satilik/izmir-guzelbahce-maltepe-emlakcidan-villa/detay/25733122,230,22.11.2018,İnşaat Firmasından,1.400.000,4+1,Kurumsal,SAYKAPPARK\u0027TA EVİNİZ HAZIR...FIRSATLAR DEVAM EDİYOR!
+33,/konut-satilik/ankara-cankaya-dodurga-emlakcidan-villa/detay/28537376,300,22.11.2018,Emlakçıdan,490.000,5+1,Bireysel,TÜRKKONUT CENNET DOĞA EVLERİNDE SATILIK TRİPLEKS VİLLA
+34,/konut-satilik/ankara-cankaya-alacaatli-emlakcidan-villa/detay/32165209,420,22.11.2018,Emlakçıdan,1.350.000,5+2,Bireysel,ALACAATLI  KOZA VİLLALARINDA KÖŞE BAŞI 5+2 TAM MÜSTAKİL VİLLA
+35,/konut-satilik/ankara-golbasi-kizilcasar-emlakcidan-villa/detay/32187508,250,22.11.2018,Emlakçıdan,800.000,4+1,Bireysel,İNCEK TEK YAPI BARIŞ CADDESİNDE KUPON 4+1 4 BANYOLU YAPILI
+36,/konut-satilik/ankara-golbasi-incek-emlakcidan-villa/detay/32201615,800,22.11.2018,Emlakçıdan,6.750.000,8+2,Kurumsal,İNCEK\u0027DE 3.5 DÖNÜM ARSA ÜZERİNDE MUHTEŞEM MALİKANE
+37,/konut-satilik/balikesir-ayvalik-namik-kemal-emlakcidan-villa/detay/31955496,120,22.11.2018,Emlakçıdan,575.000,3+1,Kurumsal,PLATFORM EMLAK TAN AYVALIK CUNDA DA DENİZ VE HAVUZA YAKIN VİLLA
+38,/konut-satilik/istanbul-besiktas-levent-emlakcidan-villa/detay/31931511,220,22.11.2018,Emlakçıdan,4.400.000,3+1,Kurumsal,Levent Metro Yürüme Tadilatlı Geniş Arka-Ön Bahçe Otopark Satılk
+39,/konut-satilik/canakkale-lapseki-cardak-gaziyakupbey-emlakcidan-villa/detay/32274092,75,22.11.2018,Emlakçıdan,335.000,4+1,Bireysel,ÇANAKKALE LAPSEKİ ÇARDAK SATILIK MÜSTAKİL EV
+40,/konut-satilik/balikesir-ayvalik-sahil-kent-emlakcidan-villa/detay/28882633,375,22.11.2018,Emlakçıdan,850.000,3+1,Kurumsal,AYVALIK ŞİRİNKENT\u0027TE SATILIK SÜPER LÜKS VİLLA
+41,/konut-satilik/ankara-cankaya-mutlukent-emlakcidan-villa/detay/31539048,430,22.11.2018,Emlakçıdan,3.100.000,7+2,Kurumsal,Can Uğurgel\u0027den Angora Evleri\u0027nde Tapulu Full Yapılı Şık Villa 
+42,/konut-satilik/izmir-urla-kalabak-emlakcidan-villa/detay/28903876,160,22.11.2018,Emlakçıdan,850.000,4+1,Kurumsal,Urla Kalabak\u0027da 4+1 Satılık Villa
+43,/konut-satilik/aydin-kusadasi-sogucak-emlakcidan-villa/detay/32306704,150,22.11.2018,Emlakçıdan,346.000,3+1,Kurumsal,KUŞADASI -DAVUTLAR YOLU ÜZERİNDE DENİZ MANZARALI HAVUZLU YAZLIK !!
+44,/konut-satilik/balikesir-edremit-altinoluk-emlakcidan-villa/detay/32286362,115,22.11.2018,Emlakçıdan,610.000,3+1,Kurumsal,"UZMANYAPI GAYRİMENKUL\u0027DEN ALTINOLUKTA MÜSTAKİL,BAHÇELİ, VİLLALAR"
+45,/konut-satilik/istanbul-esenyurt-ardicli-emlakcidan-villa/detay/32216689,360,22.11.2018,Emlakçıdan,3.750.000,5+2,Kurumsal,Bahçeşehir Ardıçlı Evler Triplex Müstakil Satılık Villa 
+46,/konut-satilik/mugla-bodrum-gumusluk-sahibinden-villa/detay/26008612,215,22.11.2018,Sahibinden,1.600.000,3+1,Bireysel,Sahibinden Satılık Muğla Bodrum - Gümüşlük / EKA\u0027dan SERA Villa
+47,/konut-satilik/sakarya-sapanca-rustempasa-sahibinden-villa/detay/14340733,200,22.11.2018,Sahibinden,1.600.000,4+1,Bireysel,Sahibinden Sapanca\u0027da Havuzlu Bahçeli Satılık Müstakil Villa
+48,/konut-satilik/ankara-cankaya-mutlukent-emlakcidan-villa/detay/29874993,420,22.11.2018,Emlakçıdan,2.750.000,7+1,Kurumsal,"Angora Evleri, Köşe ve Tam Müstakil, Geniş Bahçeli Villa"
+49,/konut-satilik/istanbul-sariyer-bahcekoy-merkez-emlakcidan-villa/detay/32201523,2700,22.11.2018,Emlakçıdan,10.650.000,8+2,Kurumsal,Sarıyer Bahçeköy de Emsalsiz 8+2 2678 m2 Lüx Satılık Villa
+50,/konut-satilik/aydin-didim-hisar-emlakcidan-villa/detay/32147801,230,22.11.2018,Emlakçıdan,760.000,3+1,Kurumsal,DİDİDM\u0027DE SATILIK TAM MÜSTAKİL VİLLA
+51,/konut-satilik/balikesir-ayvalik-kucukkoy-emlakcidan-villa/detay/32262605,155,22.11.2018,Emlakçıdan,425.000,3+1,Kurumsal,SARIMSAKLI DA ULAŞ EMLAK\u0027TAN BAHÇELİ EŞYALI SÜPER VİLLA
+52,/konut-satilik/ankara-cankaya-cayyolu-emlakcidan-villa/detay/31706079,500,22.11.2018,Emlakçıdan,2.190.000,5+2,Kurumsal,BEYSUPARK SİTESİ 500M2 5+2 MÜSTAKİL GENİŞ BAHCELİ YAPILI VİLLA
+53,/konut-satilik/balikesir-ayvalik-kucukkoy-emlakcidan-villa/detay/32270596,,,,,,Kurumsal,ULAŞ EMLAK'TAN BAHÇELİ HAVUZLU SIFIR 3+1 SÜPER LÜKS VİLLA
+54,/konut-satilik/balikesir-edremit-gure-emlakcidan-villa/detay/32307751,,,,,,Kurumsal,GÜRE SSK MEVKİNDE SATILIK 3+1 LÜKS VİLLA DENİZE 300 METRE
+55,https://www.hurriyetemlak.com/projeler/kaplanlar-insaat/sena-life/flatplans?utm_source=hurriyet_emlak&utm_medium=he_newsearch&utm_content=flat-plan-id-14727&utm_campaign=sena-life#flat-plan-id-14727,,,,,,Projeland,Sena Life
+56,/konut-satilik/sakarya-sapanca-tepebasi-emlakcidan-villa/detay/32274870,,,,,,Kurumsal,"SAPANCA'DA MÜSTAKİL HAVUZLU, GENİŞ BAHÇELİ, GÖL MANZARALI VİLLA"
+57,/konut-satilik/duzce-akcakoca-osmaniye-emlakcidan-villa/detay/32277661,,,,,,Kurumsal,AKÇAKOCA DA SATILIK LÜKS 5+2 VİLLA
+58,/konut-satilik/sakarya-sapanca-tepebasi-emlakcidan-villa/detay/32275113,,,,,,Kurumsal,"'' GÖL MANZARALI, MÜSTAKİL BAHÇELİ-HAVUZLU ''7+1 SATILIK VİLLA"
+59,/konut-satilik/balikesir-edremit-altinoluk-emlakcidan-villa/detay/31806940,,,,,,Kurumsal,ALTINOLUK SATILIK GARAJLI 4+1 LÜKS VİLLALAR- DENİZE 300 METRE
+60,https://www.hurriyetemlak.com/projeler/kaplanlar-insaat/sena-life/flatplans?utm_source=hurriyet_emlak&utm_medium=he_newsearch&utm_content=flat-plan-id-14728&utm_campaign=sena-life#flat-plan-id-14728,,,,,,Projeland,Sena Life
+61,/konut-satilik/istanbul-sariyer-zekeriyakoy-emlakcidan-villa/detay/32273492,,,,,,Kurumsal,NOKTA'DAN ZEKERİYAKÖY'DE ELİT SİTEDE ÖZEL HAVUZLU TAM MÜSTAKİL
+62,/konut-satilik/izmir-cigli-sasalli-merkez-emlakcidan-villa/detay/32064789,,,,,,Kurumsal," Sasalı Yelken Konakların da 6+1, 500m2  Satılık Lüks Villa"
+63,/konut-satilik/ankara-golbasi-karsiyaka-emlakcidan-villa/detay/32047768,,,,,,Bireysel,GÖLBAŞI NESİBE AYDIN YANI 4+1 YENİ SİTEİÇİ VİLLA ZET GROUP'DAN
+64,/konut-satilik/ankara-cankaya-beytepe-emlakcidan-villa/detay/32178729,,,,,,Kurumsal,ACAR BEYTEPE SİT.GENİŞ BAHÇELİ ÖNÜ AÇIK TRIBLEKS
+65,https://www.hurriyetemlak.com/projeler/cagri-yapi/kartepe-stone-suites/flatplans?utm_source=hurriyet_emlak&utm_medium=he_newsearch&utm_content=flat-plan-id-14771&utm_campaign=kartepe-stone-suites#flat-plan-id-14771,,,,,,Projeland,Kartepe Stone Suites
+66,/konut-satilik/istanbul-sariyer-bahcekoy-merkez-emlakcidan-villa/detay/18108847,,,,,,Kurumsal,Bahçeköy SAKLI KORU' da VİP Kupon VİLLA
+67,/konut-satilik/istanbul-sariyer-zekeriyakoy-emlakcidan-villa/detay/32179869,,,,,,Kurumsal,Havuzlu ve Guvenlikli sitede 300m2 Müstakil Villa fırsatı
+68,/konut-satilik/ankara-etimesgut-baglica-emlakcidan-villa/detay/32308520,,,,,,Bireysel,baglıca da satılık villaTAM MÜSTAKİL BAHÇELİ BAGIMSIZ 300m2bahçe
+69,/konut-satilik/izmir-cesme-alacati-emlakcidan-villa/detay/32161150,,,,,,Kurumsal,ALAÇATI ÇAMLIK YOLDA SATILIK HAVUZLU SİTEDE 3+1 VİLLA
+70,/konut-satilik/ankara-golbasi-karsiyaka-emlakcidan-villa/detay/31533249,,,,,,Kurumsal,SON VİLLALAR LÜKS- GÖL MANZARALI* KUĞU GÖLÜ VİLLALARI
+71,/konut-satilik/izmir-urla-ataturk-emlakcidan-villa/detay/32255830,,,,,,Kurumsal,Urla İskele Atatürk Mah de Alınacak En İyi Villa 5+1 Denize 100
+72,/konut-satilik/izmir-cesme-dalyan-emlakcidan-villa/detay/31848677,,,,,,Kurumsal,SEZGİN KARTAL...ÇEŞME ÖZEL MİMARİ MÜSTAKİL HAVUZLU MODERN VİLLA
+73,/konut-satilik/istanbul-besiktas-bebek-emlakcidan-villa/detay/32307663,,,,,,Kurumsal,"BEBEKTE BOĞAZ MANZARALI ,MİMARİ TASARIMLI,BAHÇELİ VİLLA"
+74,/konut-satilik/duzce-akcakoca-ayazli-emlakcidan-villa/detay/32261760,,,,,,Kurumsal,ERDEMİR SİTESİNDE 5+2 SATILIK VİLLA
+75,/konut-satilik/istanbul-beykoz-cubuklu-emlakcidan-villa/detay/27485008,,,,,,Kurumsal,ÇUBUKLU Sahilde FULL BOĞAZ MANZARALI Satılık KUPON VİLLA
+76,/konut-satilik/istanbul-tuzla-postane-emlakcidan-villa/detay/31711827,,,,,,Kurumsal,TUZLA SAHİL KIRMIZI EVLERDE SATILIK BAKIMLI VİLLA CANAN AKSOY
+77,/konut-satilik/aydin-didim-akbuk-emlakcidan-villa/detay/32174911,,,,,,Kurumsal,AKBÜK'TE DENİZE SIFIR NİTELİĞİNDE SATILIK VİLLA
+78,/konut-satilik/antalya-muratpasa-guzeloba-emlakcidan-villa/detay/32032355,,,,,,Bireysel,DEVKONUT'DAN SEFAKENT SİTESİN DE ULTRA LÜX 320 M2 7+1 TRİPLEX
+79,/konut-satilik/izmir-cesme-alacati-emlakcidan-villa/detay/31661783,,,,,,Kurumsal,ALAÇATI'DA SATILIK HAVUZLU SİTEDE 3+1 MÜSTAKİL VİLLA
+80,/konut-satilik/canakkale-ezine-geyikli-emlakcidan-villa/detay/32209926,,,,,,Kurumsal,ÇANAKKALE GEYİKLİ BOZCAADA MANZARALI SATILIK KUPON TRİPLEX EV
+81,/konut-satilik/izmir-cesme-yali-emlakcidan-villa/detay/32301290,,,,,,Kurumsal,ÇEŞME YALI'DA SİTE İÇİ MÜSTAKİL HAVUZLU VİLLALAR
+82,/konut-satilik/mugla-bodrum-yali-sahibinden-villa/detay/30667289,,,,,,Bireysel,SAHİBİNDEN MUĞLA-BODRUM-YALIÇİFTLİK MÜSTAKİL SATILIK VİLLA
+83,/konut-satilik/izmir-guzelbahce-mustafa-kemal-pasa-emlakcidan-villa/detay/29552415,,,,,,Kurumsal,"A24 SİTE GAYRİMENKUL,HAVUZLU GÜVENLİKLİ SİTEDE ULTRA LÜKS VİLLA"
+84,/konut-satilik/balikesir-ayvalik-sefa-camlik-emlakcidan-villa/detay/32049018,,,,,,Kurumsal,PLATFORM EMLAK TAN AYVALIK ÇAMLIK TA PEYZAJLI 3+1 LÜKS VİLLA
+85,/konut-satilik/izmir-guzelbahce-maltepe-emlakcidan-villa/detay/25733122,,,,,,Kurumsal,SAYKAPPARK'TA EVİNİZ HAZIR...FIRSATLAR DEVAM EDİYOR!
+86,/konut-satilik/ankara-cankaya-dodurga-emlakcidan-villa/detay/28537376,,,,,,Bireysel,TÜRKKONUT CENNET DOĞA EVLERİNDE SATILIK TRİPLEKS VİLLA
+87,/konut-satilik/ankara-cankaya-alacaatli-emlakcidan-villa/detay/32165209,,,,,,Bireysel,ALACAATLI  KOZA VİLLALARINDA KÖŞE BAŞI 5+2 TAM MÜSTAKİL VİLLA
+88,/konut-satilik/ankara-golbasi-kizilcasar-emlakcidan-villa/detay/32187508,,,,,,Bireysel,İNCEK TEK YAPI BARIŞ CADDESİNDE KUPON 4+1 4 BANYOLU YAPILI
+89,/konut-satilik/ankara-golbasi-incek-emlakcidan-villa/detay/32201615,,,,,,Kurumsal,İNCEK'DE 3.5 DÖNÜM ARSA ÜZERİNDE MUHTEŞEM MALİKANE
+90,/konut-satilik/balikesir-ayvalik-namik-kemal-emlakcidan-villa/detay/31955496,,,,,,Kurumsal,PLATFORM EMLAK TAN AYVALIK CUNDA DA DENİZ VE HAVUZA YAKIN VİLLA
+91,/konut-satilik/istanbul-besiktas-levent-emlakcidan-villa/detay/31931511,,,,,,Kurumsal,Levent Metro Yürüme Tadilatlı Geniş Arka-Ön Bahçe Otopark Satılk
+92,/konut-satilik/canakkale-lapseki-cardak-gaziyakupbey-emlakcidan-villa/detay/32274092,,,,,,Bireysel,ÇANAKKALE LAPSEKİ ÇARDAK SATILIK MÜSTAKİL EV
+93,/konut-satilik/balikesir-ayvalik-sahil-kent-emlakcidan-villa/detay/28882633,,,,,,Kurumsal,AYVALIK ŞİRİNKENT'TE SATILIK SÜPER LÜKS VİLLA
+94,/konut-satilik/ankara-cankaya-mutlukent-emlakcidan-villa/detay/31539048,,,,,,Kurumsal,Can Uğurgel'den Angora Evleri'nde Tapulu Full Yapılı Şık Villa 
+95,/konut-satilik/izmir-urla-kalabak-emlakcidan-villa/detay/28903876,,,,,,Kurumsal,Urla Kalabak'da 4+1 Satılık Villa
+96,/konut-satilik/aydin-kusadasi-sogucak-emlakcidan-villa/detay/32306704,,,,,,Kurumsal,KUŞADASI -DAVUTLAR YOLU ÜZERİNDE DENİZ MANZARALI HAVUZLU YAZLIK !!
+97,/konut-satilik/balikesir-edremit-altinoluk-emlakcidan-villa/detay/32286362,,,,,,Kurumsal,"UZMANYAPI GAYRİMENKUL'DEN ALTINOLUKTA MÜSTAKİL,BAHÇELİ, VİLLALAR"
+98,/konut-satilik/istanbul-esenyurt-ardicli-emlakcidan-villa/detay/32216689,,,,,,Kurumsal,Bahçeşehir Ardıçlı Evler Triplex Müstakil Satılık Villa 
+99,/konut-satilik/mugla-bodrum-gumusluk-sahibinden-villa/detay/26008612,,,,,,Bireysel,Sahibinden Satılık Muğla Bodrum - Gümüşlük / EKA'dan SERA Villa
+100,/konut-satilik/sakarya-sapanca-rustempasa-sahibinden-villa/detay/14340733,,,,,,Bireysel,Sahibinden Sapanca'da Havuzlu Bahçeli Satılık Müstakil Villa
+101,/konut-satilik/ankara-cankaya-mutlukent-emlakcidan-villa/detay/29874993,,,,,,Kurumsal,"Angora Evleri, Köşe ve Tam Müstakil, Geniş Bahçeli Villa"
+102,/konut-satilik/istanbul-sariyer-bahcekoy-merkez-emlakcidan-villa/detay/32201523,,,,,,Kurumsal,Sarıyer Bahçeköy de Emsalsiz 8+2 2678 m2 Lüx Satılık Villa
+103,/konut-satilik/aydin-didim-hisar-emlakcidan-villa/detay/32147801,,,,,,Kurumsal,DİDİDM'DE SATILIK TAM MÜSTAKİL VİLLA
+104,/konut-satilik/balikesir-ayvalik-kucukkoy-emlakcidan-villa/detay/32262605,,,,,,Kurumsal,SARIMSAKLI DA ULAŞ EMLAK'TAN BAHÇELİ EŞYALI SÜPER VİLLA
+105,/konut-satilik/ankara-cankaya-cayyolu-emlakcidan-villa/detay/31706079,,,,,,Kurumsal,BEYSUPARK SİTESİ 500M2 5+2 MÜSTAKİL GENİŞ BAHCELİ YAPILI VİLLA

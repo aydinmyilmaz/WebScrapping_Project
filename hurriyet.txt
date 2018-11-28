@@ -1,3 +1,7 @@
+﻿mmmmmmmmmmmmmmmm
+
+
+
 ,adres,area-m2,date,owner,price,room,seller,title
 0,/konut-satilik/balikesir-ayvalik-kucukkoy-emlakcidan-villa/detay/32270596,155,22.11.2018,Emlakçıdan,525.000,3+1,Kurumsal,ULAŞ EMLAK\u0027TAN BAHÇELİ HAVUZLU SIFIR 3+1 SÜPER LÜKS VİLLA
 1,/konut-satilik/balikesir-edremit-gure-emlakcidan-villa/detay/32307751,140,22.11.2018,Emlakçıdan,550.000,3+1,Kurumsal,GÜRE SSK MEVKİNDE SATILIK 3+1 LÜKS VİLLA DENİZE 300 METRE

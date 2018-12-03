@@ -1,0 +1,63 @@
+import pandas as pd
+import requests
+from bs4 import BeautifulSoup
+from datetime import datetime
+
+
+price = []
+date = []
+area = []
+owner = []
+room = []
+seller = []
+adres = []
+title = []
+
+
+for i in range(1,2):
+    r = requests.get("https://www.hurriyetemlak.com/konut-satilik/villa/listeleme?pageSize=50&page="+str(i))
+    soup = BeautifulSoup(r.text,'html.parser')
+    results = soup.find_all("a", attrs={'class':'overlay-link'})
+    
+    for tag in results :
+        try:
+            price_str=(tag.get('data-price').split('.'))
+            new_price=("".join(price_str))
+            date_new = datetime.strptime (tag.get('data-date'), '%d.%m.%Y') 
+        except:
+            new_price="None"
+            date_new="None"
+
+        try:
+            date_new = datetime.strptime (tag.get('data-date'), '%d.%m.%Y')
+        except:
+            date_new="None"    
+            
+        
+        price.append(new_price)
+        date.append(date_new)
+       
+            
+    
+
+
+        
+        
+        area.append(tag.get('data-meter'))
+        owner.append(tag.get('data-owner'))
+        room.append(tag.get('data-room'))
+        seller.append(tag.get('data-seller-type'))
+        adres.append(tag.get('href'))
+        title.append(tag.get('title'))
+
+    records={"title": title, "price": price, "date":date, "area-m2": area, "owner":owner, "room": room, "seller": seller, "adres":adres, }
+
+      
+df = pd.DataFrame(records)
+#print(df.iloc[50])
+#print(df.iloc[1])
+    
+#df=df.dropna(axis=1)
+#df
+#
+#df.to_txt("hurriyet.txt")
